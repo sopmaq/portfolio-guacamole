@@ -17,8 +17,6 @@ title: Sophie Maquiling
 email: scmaquiling@ucdavis.edu
 description: > # this means to ignore newlines until "baseurl:"
   I'm Sophie! I live in Wellington and I'm always looking for bagels.
-
-  colophon
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://sopmaq.com" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: sopmaq
@@ -30,7 +28,8 @@ permalink: /work/:title/
 
 # Build settings
 markdown: kramdown
-theme: minima
+# Exclude this
+# theme: minima
 plugins:
   - jekyll-feed
   - jemoji
