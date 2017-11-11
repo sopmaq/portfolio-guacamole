@@ -1,11 +1,11 @@
 ---
 layout: post
 title:  "MyEnrolment Redesign"
-date:   2017-09-10 19:49:50 +1200
 categories: interaction
-caption: "Interaction Design"
 type: "Case Study"
+caption: "Prototyping and wireframing a better way for design students to register for classes."
 intro: "This is a redesign of MyEnrolment at Massey University."
+team: ["Keriana Salisbury"]
 ---
 
 <div class="wrapper" markdown="1">
