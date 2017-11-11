@@ -1,9 +1,12 @@
 ---
 layout: post
-title:  Breathing Visualizer
+title:  Ecostore Brand Dossier
 categories: interactive
 type: “Gallery ”
 caption: ""
 intro: ""
 team: []
+course: "Brand Communication"
+institution: "Massey University, New Zealand"
+year: 2017
 ---

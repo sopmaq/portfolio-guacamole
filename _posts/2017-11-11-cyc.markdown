@@ -6,4 +6,5 @@ type: "Case Study"
 caption: ""
 intro: ""
 team: []
+year: 2017
 ---

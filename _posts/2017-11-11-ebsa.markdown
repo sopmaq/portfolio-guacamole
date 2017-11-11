@@ -6,4 +6,5 @@ type: “Gallery”
 caption: ""
 intro: ""
 team: []
+year: 2016
 ---

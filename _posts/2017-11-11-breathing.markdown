@@ -1,12 +1,12 @@
 ---
 layout: post
-title:  Female Cancer Rates
-categories: information
+title:  Breathing Visualizer
+categories: interactive
 type: “Gallery ”
 caption: ""
 intro: ""
 team: []
-course: "Information Design"
+course: "Interactive Media II"
 institution: "University of California, Davis"
-year: 2016
+year: 2017
 ---

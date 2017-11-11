@@ -6,4 +6,5 @@ type: “Gallery ”
 caption: ""
 intro: ""
 team: ["Lillian Liu", "Jaqueline Su", "Nathalie Schrans", "Christy Robertson"]
+year: 2016
 ---

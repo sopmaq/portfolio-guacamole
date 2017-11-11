@@ -1,12 +1,12 @@
 ---
 layout: post
-title:  Reimagining Bike Parking
+title:  “A Fine Line“
 categories: interaction
-type: "Case Study"
+type: “Gallery ”
 caption: ""
 intro: ""
 team: []
-course: "Human Centered Design"
+course: "Interactive Media II"
 institution: "University of California, Davis"
-year: 2016
+year: 2017
 ---
