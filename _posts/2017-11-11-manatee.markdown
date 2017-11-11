@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  “Mandator Manatee“
+title:  Mandator Manatee
 categories: information, leadership
 type: “Gallery ”
 caption: ""

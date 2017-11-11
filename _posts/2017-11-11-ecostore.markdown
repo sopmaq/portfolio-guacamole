@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  “Breathing Visualizer“
+title:  Breathing Visualizer
 categories: interactive
 type: “Gallery ”
 caption: ""

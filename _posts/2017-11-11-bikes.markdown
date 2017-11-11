@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  “Reimagining Bike Parking“
+title:  Reimagining Bike Parking
 categories: interaction
 type: "Case Study"
 caption: ""

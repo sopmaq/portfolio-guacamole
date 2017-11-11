@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  “Economics & Business Student Association“
+title:  Economics & Business Student Association
 categories: graphic
 type: “Gallery”
 caption: ""

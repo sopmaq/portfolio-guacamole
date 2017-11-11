@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  “Spelling Aid“
+title:  Spelling Aid
 categories: interaction
 type: “Gallery ”
 caption: ""

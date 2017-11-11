@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  “Female Cancer Rates“
+title:  Female Cancer Rates
 categories: information
 type: “Gallery ”
 caption: ""

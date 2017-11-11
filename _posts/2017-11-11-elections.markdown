@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  “Don’t Let 9% of Students Speak For You“
+title:  Don’t Let 9% of Students Speak For You
 categories: leadership, marketing
 type: “Gallery ”
 caption: ""
