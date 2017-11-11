@@ -1,0 +1,24 @@
+.gallery-container {
+  display: flex;
+  justify-content: flex-start;
+}
+
+.gallery {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+
+}
+
+.gallery-item {
+  flex: 1;
+}
+
+.gallery-thumbnail {
+
+}
+
+.center-img {
+  display: flex;
+  justify-content: center;
+}

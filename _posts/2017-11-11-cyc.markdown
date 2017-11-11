@@ -7,4 +7,61 @@ caption: ""
 intro: ""
 team: []
 year: 2017
+thumbnail: /thumbnails/thumb-cyc.png
 ---
+
+Prototyping: Figma
+Visual Design: Adobe Illustrator, Photoshop, InDesign
+Development: HTML/CSS, Bootstrap Framework
+
+
+![image test](/images/cyc/web-1b.png)
+
+
+
+## Background
+Consult Your Community (CYC) is a student organization that provides pro-bono consulting services for local businesses. The CYC Chapter at UC Davis asked me to help them stand out among other business organizations during Fall Recruitment.
+
+Deliverables
+- Flyers to use for recruiting
+- Design and develop a website
+
+Project Goals
+
+#### Brand Presence
+Showcase Consult Your Community's unique qualities to help them stand out among the noise of other business clubs recruiting during Fall Quarter.
+
+#### Fall Recruitment
+Encourage students to apply to Consult Your Community during Fall Quarter
+
+## Constraints
+Uphold the CYC National branding precedents.
+
+## Process
+
+## Branding
+
+## Website
+Consult
+
+## Mockups
+
+<div class="wrapper" markdown="1" style="display: flex; justify-content: center;">
+![image test](/images/cyc/cyc-figma.gif)
+</div>
+
+## Site Development
+I created the site using HTML/CSS and the Bootstrap framework.
+
+## Currently
+Visit the site at [cycdavis.com](http://www.cycdavis.com/)
+
+![image test](/images/cyc/web-6.jpg)
+
+![image test](/images/cyc/cyc-demo.gif)
+
+![image test](/images/cyc/web-3.jpg)
+
+![image test](/images/cyc/web-4.jpg)
+
+![image test](/images/cyc/web-3a.jpg)

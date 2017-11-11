@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  “A Fine Line“
+title:  A Fine Line
 categories: interaction
 type: “Gallery ”
 caption: ""
@@ -9,4 +9,11 @@ team: []
 course: "Interactive Media II"
 institution: "University of California, Davis"
 year: 2017
+thumbnail: /images/fineline/thumb-fineline.gif
 ---
+
+![Screen before interaction](/images/fineline/fineline2.jpg)
+
+![Interface demo](/images/fineline/fineline-demo.gif)
+
+![Screen during interaction](/images/fineline/fineline1.jpg)

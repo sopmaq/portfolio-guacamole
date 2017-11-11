@@ -15,6 +15,14 @@ layout: default
       {% endif %}
     {{ page.intro }}
 
+  {% if page.team %}
+  <ol>
+    {% for member in page.team %}
+      <li>{{ member }}</li>
+    {% endfor %}
+  </ol>
+  {% endif %}
+
   </p>
   </header>
 

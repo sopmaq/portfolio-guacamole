@@ -4,23 +4,43 @@ layout: default
 
 <div class="home">
 
-  <h1 class="page-heading">Posts</h1>
-  
+<!--  <h1 class="page-heading">Case Studies</h1>
+
   {{ content }}
 
   <ul class="post-list">
     {% for post in site.posts %}
       <li>
-        {% assign date_format = site.minima.date_format | default: "%b %-d, %Y" %}
-        <span class="post-meta">{{ post.date | date: date_format }}</span>
-
+        {% if post.thumbnail %}
+          <img src=" {{ post.thumbnail }} " />
+        {% endif %}
         <h2>
           <a class="post-link" href="{{ post.url | relative_url }}">{{ post.title | escape }}</a>
         </h2>
       </li>
     {% endfor %}
   </ul>
+</div>
+-->
 
-  <p class="rss-subscribe">subscribe <a href="{{ "/feed.xml" | relative_url }}">via RSS</a></p>
 
+<!--
+.galler-container
+    .gallery
+      .post
+-->
+
+<div class="gallery-container">
+  <div class="gallery">
+    {% for post in site.posts %}
+      <div class="gallery-item">
+        {% if post.thumbnail %}
+          <img class="gallery-thumbnail" src=" {{ post.thumbnail }} " />
+        {% endif %}
+        <h2>
+          <a class="post-link" href="{{ post.url | relative_url }}">{{ post.title | escape }}</a>
+        </h2>
+      </div>
+    {% endfor %}
+  </div>
 </div>
