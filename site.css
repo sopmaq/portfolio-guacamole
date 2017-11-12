@@ -41,23 +41,47 @@
 
 */
 
+/*
 .gallery-container {
   display: flex;
 
 }
 
 .gallery {
-  /*border: 1px solid purple;*/
   display: flex;
   flex-wrap: wrap;
   align-items: stretch;
   justify-content: space-between;
 }
 
-.gallery-item {
-  /*border: 1px solid blue;*/
+.gallery-item, .gallery-case-item {
   margin: 1px 1px 1px 1px;
   flex: 1;
   flex-basis: 300px;
   background-color: orange;
+}*/
+
+/*
+.gallery-container
+    .gallery
+        .gallery-case-item ...
+    .gallery
+        .gallery-item ...
+*/
+
+.gallery {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: stretch;
+  margin-bottom: 30px;
+}
+
+.gallery-case-item, .gallery-item {
+  flex: 1;
+  flex-basis: 300px; /* 2 columns */
+  border: 1px solid #fff;
+}
+
+.gallery-item {
+  flex-basis: 200px; /* 3 columns */
 }

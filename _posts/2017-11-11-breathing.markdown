@@ -2,7 +2,7 @@
 layout: post
 title:  Breathing Visualizer
 categories: interactive
-type: “Gallery ”
+type: "Case Study"
 caption: ""
 intro: ""
 team: []

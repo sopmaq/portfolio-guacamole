@@ -31,16 +31,30 @@ layout: default
 -->
 
 <div class="gallery-container">
-  <div class="gallery">
+  <h2>Case Studies</h2>
+    <div class="gallery">
     {% for post in site.posts %}
-      <div class="gallery-item">
-        {% if post.thumbnail %}
+      {% if post.type == "Case Study" %}
+      <div class="gallery-case-item">
           <a href="{{ post.url | relative_url }}"><img class="gallery-thumbnail" src=" {{ post.thumbnail }} " /></a>
+      </div>
         {% endif %}
+    {% endfor %}
+        </div>
+
+<h2>Gallery</h2>
+    <div class="gallery">
+
+    {% for post in site.posts %}
+      {% if post.type != "Case Study" %}
+        <div class="gallery-item">
+          <a href="{{ post.url | relative_url }}"><img class="gallery-thumbnail" src=" {{ post.thumbnail }} " /></a>
+        </div>
+      {% endif %}
+    {% endfor %}
         <!--<h2>
           <a class="post-link" href="{{ post.url | relative_url }}">{{ post.title | escape }}</a>
         </h2>-->
       </div>
-    {% endfor %}
-  </div>
+
 </div>
