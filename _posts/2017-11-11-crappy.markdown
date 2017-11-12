@@ -10,3 +10,7 @@ course: "Visual Communication Studio"
 institution: "Massey University, New Zealand"
 year: 2017
 ---
+
+![x](/images/koha/devices.jpg)
+
+![x](/images/koha/koha-1.jpg)
