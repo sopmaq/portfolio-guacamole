@@ -9,6 +9,8 @@ team: []
 course: "Interactive Media II"
 institution: "University of California, Davis"
 year: 2017
+thumbnail: thumbnails/thumb-02.png
+
 ---
 ![x](/images/breathing/precedents.jpg)
 

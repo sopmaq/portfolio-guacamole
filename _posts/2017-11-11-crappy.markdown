@@ -9,6 +9,8 @@ team: []
 course: "Visual Communication Studio"
 institution: "Massey University, New Zealand"
 year: 2017
+thumbnail: thumbnails/thumb-02.png
+
 ---
 
 ![x](/images/koha/devices.jpg)

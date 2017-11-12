@@ -7,4 +7,6 @@ caption: ""
 intro: ""
 team: []
 year: 2017
+thumbnail: thumbnails/thumb-02.png
+
 ---

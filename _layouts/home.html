@@ -35,11 +35,11 @@ layout: default
     {% for post in site.posts %}
       <div class="gallery-item">
         {% if post.thumbnail %}
-          <img class="gallery-thumbnail" src=" {{ post.thumbnail }} " />
+          <a href="{{ post.url | relative_url }}"><img class="gallery-thumbnail" src=" {{ post.thumbnail }} " /></a>
         {% endif %}
-        <h2>
+        <!--<h2>
           <a class="post-link" href="{{ post.url | relative_url }}">{{ post.title | escape }}</a>
-        </h2>
+        </h2>-->
       </div>
     {% endfor %}
   </div>

@@ -9,7 +9,8 @@ team: ["Keriana Salisbury"]
 course: "Interaction and Interface"
 institution: "Massey University, New Zealand"
 year: 2017
-thumbnail: thumbnails/thumbnail_test_2.png
+thumbnail: thumbnails/thumb-02.png
+
 ---
 
 
