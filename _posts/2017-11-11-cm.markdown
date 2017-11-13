@@ -2,7 +2,7 @@
 layout: post
 title:  Creative Media Workflow
 categories: leadership, marketing
-type: “Gallery ”
+type: "Leadership"
 caption: ""
 intro: ""
 team: []

@@ -2,7 +2,7 @@
 layout: post
 title:  Mandator Manatee
 categories: information, leadership
-type: “Gallery ”
+type: "Leadership"
 caption: ""
 intro: ""
 team: []

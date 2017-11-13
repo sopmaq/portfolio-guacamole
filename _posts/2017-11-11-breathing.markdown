@@ -9,9 +9,11 @@ team: []
 course: "Interactive Media II"
 institution: "University of California, Davis"
 year: 2017
-thumbnail: thumbnails/thumb-02.png
+thumbnail: thumbnails/thumb-breathing.gif
 
 ---
+![x](/images/breathing/demo2.gif)
+
 ![x](/images/breathing/precedents.jpg)
 
 ![x](/images/breathing/site-map.gif)
@@ -36,3 +38,5 @@ thumbnail: thumbnails/thumb-02.png
 ![x](/images/breathing/proto2.jpg)
 
 ![x](/images/breathing/proto1.jpg)
+
+# Reflection

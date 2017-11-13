@@ -9,5 +9,28 @@ team: []
 course: "Human Centered Design"
 institution: "University of California, Davis"
 year: 2016
-thumbnail: thumbnails/thumb-02.png
+thumbnail: thumbnails/thumb-bikes.jpg
 ---
+
+![x](/images/bikes/prototype_header.jpg)
+
+
+![x](/images/bikes/empathy_map_3.jpg)
+
+![x](/images/bikes/brainstorm.jpg)
+
+![x](/images/bikes/experiment.jpg)
+
+![x](/images/bikes/experience_survey_lon.jpg)
+
+![x](/images/bikes/experience_survey_2_long.jpg)
+
+![x](/images/bikes/prototype_main.jpg)
+
+![x](/images/bikes/prototype_1.jpg)
+
+![x](/images/bikes/prototype_2_long.jpg)
+
+![x](/images/bikes/sketch_1_long.jpg)
+
+![x](/images/bikes/sketch_2_long.jpg)

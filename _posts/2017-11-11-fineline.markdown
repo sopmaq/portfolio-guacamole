@@ -2,7 +2,7 @@
 layout: post
 title:  A Fine Line
 categories: interaction
-type: “Gallery ”
+type: "Gallery"
 caption: ""
 intro: ""
 team: []

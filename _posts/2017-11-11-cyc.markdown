@@ -46,9 +46,20 @@ Consult
 
 ## Mockups
 
+![image test](/images/cyc/site-map2.png)
+
+![image test](/images/cyc/sketches.jpg)
+
+![image test](/images/cyc/flyers.jpg)
+
+
+
+
 <div class="wrapper" markdown="1" style="display: flex; justify-content: center;">
 ![image test](/images/cyc/cyc-figma.gif)
 </div>
+
+## UI Details
 
 ## Site Development
 I created the site using HTML/CSS and the Bootstrap framework.
