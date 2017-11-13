@@ -9,7 +9,7 @@ team: []
 course: "Brand Communication"
 institution: "Massey University, New Zealand"
 year: 2017
-thumbnail: thumbnails/thumb-ecostore.jpg
+thumbnail: thumbnails/thumb-ecostore2.jpg
 ---
 
 ![x](/images/ecostore/dossier1.jpg)
@@ -22,5 +22,3 @@ thumbnail: thumbnails/thumb-ecostore.jpg
 ![x](/images/ecostore/dossier4.jpg)
 
 ![x](/images/ecostore/dossier5.jpg)
-
-![x](/images/ecostore/invision.jpg)

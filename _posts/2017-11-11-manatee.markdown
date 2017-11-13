@@ -7,6 +7,46 @@ caption: ""
 intro: ""
 team: []
 year: 2017
-thumbnail: thumbnails/thumb-02.png
+thumbnail: thumbnails/thumb-manatee.jpg
 
 ---
+Background
+
+PIXEL: Graphic Design Club is the AIGA student group at UC Davis. We provide weekly presentations and workshops, several field trips to studio tours, and an undergraduate mentorship program to expose members to careers in graphic design.
+
+Mentorship Program
+
+As Secretary of PIXEL: Graphic Design Club, the UC Davis AIGA student group, I was tasked with creating “Manator/Manatee”, a design mentorship program for UC Davis undergraduates. After planning the overall program structure, and matching applicants in mentorship pairs, I created a 4 page goal-building worksheet for participants to use together during a mentorship reveal orientation.
+
+Process
+I asked the previous PIXEL board members what they thought could be improved in the Manator/Manatee mentorship program. A key issue was that many mentorship pairs had different schedules, making mentorship meet-ups difficult.
+
+I structured the program with a one-time mentorship reveal orientation and weekly challenges throughout the quarter, giving participants the flexibility to adapt their mentorship experience into their schedules.
+
+Goal-Building Worksheets
+
+I created goal-building worksheets to help participants determine what steps they needed to take as pairs to make their mentorship experience unique and meaningful.
+
+Reveal Orientation
+
+We passed out these worksheets to participants at reveal orientation, where most participants had never met their mentor/mentee before. I guided the room of participants through each page with a timer and presentation.
+
+Conclusion
+
+The worksheets proved successful during the event, participants actively interacted with the worksheets to guide their conversations.
+
+Because participant activity waned towards the end of the quarter, I am currently working on other ways to encourage participants to continue engaging with their mentor/mentee for this upcoming quarter.
+![](/images/manatee/activity-1.jpg)
+![](/images/manatee/activity-2.jpg)
+![](/images/manatee/activity-3.jpg)
+![](/images/manatee/activity-4.jpg)
+
+![](/images/manatee/megaphone.jpg)
+
+![](/images/manatee/worksheet-1.jpg)
+![](/images/manatee/worksheet-2.jpg)
+
+![](/images/manatee/worksheet-example-1.png)
+![](/images/manatee/worksheet-example-2.png)
+![](/images/manatee/worksheet-example-3.png)
+![](/images/manatee/worksheet-example-4.png)

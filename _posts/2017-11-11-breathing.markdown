@@ -12,9 +12,30 @@ year: 2017
 thumbnail: thumbnails/thumb-breathing.gif
 
 ---
+
 ![x](/images/breathing/demo2.gif)
 
+## Background
+Tasked with designing and developing a piece of interaction design that responds to the topic of "Biocreation and Data", I decided to address anxiety and its physical responses, including as respiratory rate and heart rate. I wanted to create something that helped people experiencing anxiety by making them aware of their heart rate and breathing.
+
+## Comparative Research
+[eXHaLeR](http://xhalr.com/) is an online breathing exercise application that guides users through breathing techniques with simple "Inhale"/"Exhale" instructions accompanying a calming visualization.
+
+The NeuroSky MindWave Mobile is an EEG device. This [android application](http://store.neurosky.com/products/brainwave-visualizer-android) creates graph visualizations based on data read from the device.
+
+These two pieces of comparative research sparked me to think of ways that I could read data regarding peoples' heart rate and respiratory rate, and how I could use that data to help people take control of their anxiety.
+
 ![x](/images/breathing/precedents.jpg)
+
+## Exploration
+During my research I found stethoscopes that could record heart rate data, but cost constrains lead me to explore other ways of reading in data from people. Playing around with the [p5.js-sound library](https://p5js.org/reference/#/libraries/p5.sound), I realized I could use audio input from a small headphone microphone to record "breathing" - specifically when people exhale. Using with the p5.js-sound library, I found that I could manipulate shapes using the audio input of people exhaling.
+
+![x](/images/breathing/proto2.jpg)
+
+## Site Map, User Flow, and Wireframes
+This project initially was called "Visualizing Anxiety". I wanted people to notice their breathing patterns while anxious, complete a breathing exercise, then notice their breathing patterns again. Constraints, such as the lack of being able to measure heart rate and only being able to measure exhales, lead me to narrow the scope of this project later on.
+
+The following site map, user flow, and wierframes all represent the ideal direction for this project if my headphone microphone solution could measure more data more accurately.
 
 ![x](/images/breathing/site-map.gif)
 
@@ -27,16 +48,21 @@ thumbnail: thumbnails/thumb-breathing.gif
 
 ![x](/images/breathing/navigation.gif)
 
+## Paper Prototyping
+I created paper prototypes and had users test these with the headphone microphone.
+
+A key insight from the first round of paper prototypes was the connection between anxiety and timers. I included a timer that counts down as part of a breathing exercise, but a user expressed that she would perceive the countdown negatively. We discussed creating a visual counter (such as a bar that fills up) as an alternative.
 <div markdown="1" style="display: flex; justify-content: center;">
 ![x](/images/breathing/prototyping4.png)
 
 ![x](/images/breathing/prototyping3.png)
 </div>
 
+## Digital Prototype
+I created the following stylistic mockups, and decided to go with a more soothing dark background and circles.
 ![x](/images/breathing/styletile.jpg)
-
-![x](/images/breathing/proto2.jpg)
 
 ![x](/images/breathing/proto1.jpg)
 
 # Reflection
+Without time constraints, I would like to revisit this project and expand on its visual solution. I think I could play more with the p5.js-sound library to create a more interesting, soothing visualization that accompanies the breathing. I'd also like to incorporate the breathing exercise as I didn't get a chance to with this project.

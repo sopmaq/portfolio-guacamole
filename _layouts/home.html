@@ -4,7 +4,7 @@ layout: default
 
 <div class="home">
 
-<!--  <h1 class="page-heading">Case Studies</h1>
+  <!--  <h1 class="page-heading">Case Studies</h1>
 
   {{ content }}
 
@@ -24,40 +24,48 @@ layout: default
 -->
 
 
-<!--
+  <!--
 .galler-container
     .gallery
       .post
 -->
 
-<div class="gallery-container">
-  <h2>Design Case Studies</h2>
+  <div class="gallery-container">
+    <h2>Design Case Studies</h2>
     <div class="gallery">
-    {% for post in site.posts %}
-      {% if post.type == "Case Study" %}
+      {% for post in site.posts %}
+        {% if post.type == "Case Study" %}
       <div class="gallery-case-item">
-          <a href="{{ post.url | relative_url }}"><img class="gallery-thumbnail" src=" {{ post.thumbnail }} " /></a>
+        <a href="{{ post.url | relative_url }}"><img class="gallery-thumbnail" src=" {{ post.thumbnail }} " /></a>
+        <a class="post-link" href="{{ post.url | relative_url }}">{{ post.title | escape }}</a>
       </div>
         {% endif %}
-    {% endfor %}
-        </div>
+      {% endfor %}
+    </div>
 
-<h2>Leadership and People</h2>
-
-<h2>Gallery</h2>
+    <h2>Leadership and People</h2>
     <div class="gallery">
+      {% for post in site.posts %}
+        {% if post.type == "Leadership" %}
+      <div class="gallery-leadership-item">
+        <a href="{{ post.url | relative_url }}"><img class="gallery-thumbnail" src=" {{ post.thumbnail }} " /></a>
+        <a class="post-link" href="{{ post.url | relative_url }}">{{ post.title | escape }}</a>
+      </div>
+        {% endif %}
+      {% endfor %}
+    </div>
 
-    {% for post in site.posts %}
-      {% if post.type != "Case Study" %}
-        <div class="gallery-item">
-          <a href="{{ post.url | relative_url }}"><img class="gallery-thumbnail" src=" {{ post.thumbnail }} " /></a>
-          <a class="post-link" href="{{ post.url | relative_url }}">{{ post.title | escape }}</a>
-        </div>
-      {% endif %}
-    {% endfor %}
-        <!--<h2>
+    <h2>Gallery</h2>
+    <div class="gallery">
+      {% for post in site.posts %} {% if post.type == "Gallery" %}
+      <div class="gallery-item">
+        <a href="{{ post.url | relative_url }}"><img class="gallery-thumbnail" src=" {{ post.thumbnail }} " /></a>
+        <a class="post-link" href="{{ post.url | relative_url }}">{{ post.title | escape }}</a>
+      </div>
+      {% endif %} {% endfor %}
+      <!--<h2>
           <a class="post-link" href="{{ post.url | relative_url }}">{{ post.title | escape }}</a>
         </h2>-->
-      </div>
+    </div>
 
-</div>
+  </div>
