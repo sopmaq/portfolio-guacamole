@@ -10,6 +10,8 @@ year: 2016
 thumbnail: thumbnails/thumb-ebsa.jpg
 
 ---
+![Icon Pattern version 3](/images/ebsa/pattern_3b.jpg)
+
 ## Background
 
 The Economics & Business Student Association (EBSA) is one of the largest undergraduate professional business organizations at UC Davis that provides members with experience in different business area by hosting workshops, guest speakers, and quarterly competitions. As the organization’s Design Chair, I was responsible for designing all digital and print communications.
@@ -60,14 +62,6 @@ Each quarter, EBSA has a theme: a different field of business. I developed a sys
 ![Icon Pattern version 1](/images/ebsa/pattern_1b.jpg)
 
 ![Icon Pattern version 2](/images/ebsa/pattern_2b.jpg)
-
-![Icon Pattern version 3](/images/ebsa/pattern_3b.jpg)
-
-
-
-
-
-
 
 ## Conclusion
 
