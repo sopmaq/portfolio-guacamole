@@ -1,13 +1,13 @@
 ---
 layout: post
 title:  Creative Media Workflow
-categories: leadership, marketing
 type: "Leadership"
-caption: ""
+caption: "Improved interdepartmental communication and client relations by establishing a documented workflow."
 intro: ""
 team: []
 year: 2016
 thumbnail: thumbnails/thumb-cm.jpg
+categories: [leadership, marketing]
 
 ---
 

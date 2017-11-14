@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  Spelling Aid
-categories: interaction
+categories: Interaction
 type: "Gallery"
 caption: ""
 intro: ""
@@ -10,7 +10,7 @@ course: "Interaction and Interface"
 institution: "Massey University, New Zealand"
 year: 2017
 thumbnail: thumbnails/thumb-spelling.jpg
-
+languages: ["Arduino Uno"]
 ---
 
 ![](/images/spelling/spelling-demo.gif)

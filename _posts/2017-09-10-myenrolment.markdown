@@ -10,7 +10,7 @@ course: "Interaction and Interface"
 institution: "Massey University, New Zealand"
 year: 2017
 thumbnail: thumbnails/thumb-myenrolment2.gif
-prototyping: ["Figma", "Adobe Illustrator", "Invision"]
+tools: ["Figma", "Adobe Illustrator", "Invision"]
 ---
 ![Final prototype solution](/images/myenrolment/mac2.jpg)
 

@@ -3,12 +3,12 @@ layout: post
 title:  Manator Manatee
 categories: information, leadership
 type: "Leadership"
-caption: ""
+caption: "Facilitated and created goal-building worksheets for a design mentorship program of 50+ participants."
 intro: ""
 team: []
 year: 2017
 thumbnail: thumbnails/thumb-manatee.jpg
-
+tools: ["Adobe InDesign"]
 ---
 ![Me using a megaphone to be heard by manator/manatee pairs](/images/manatee/megaphone.jpg)
 ## Background

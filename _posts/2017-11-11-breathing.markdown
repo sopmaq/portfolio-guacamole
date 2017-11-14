@@ -10,7 +10,8 @@ course: "Interactive Media II"
 institution: "University of California, Davis"
 year: 2017
 thumbnail: thumbnails/thumb-breathing.gif
-
+tools: ["Adobe Illustrator"]
+languages: ["HTML", "CSS", "JavaScript"]
 ---
 
 ![Final prototype](/images/breathing/demo2.gif)

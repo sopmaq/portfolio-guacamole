@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  A Fine Line
-categories: interaction
+categories: Interaction
 type: "Gallery"
 caption: ""
 intro: ""
@@ -10,6 +10,7 @@ course: "Interactive Media II"
 institution: "University of California, Davis"
 year: 2017
 thumbnail: /images/fineline/thumb-fineline.gif
+languages: ["HTML", "CSS", "JavaScript"]
 ---
 
 ![Screen before interaction](/images/fineline/fineline2.jpg)

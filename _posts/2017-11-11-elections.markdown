@@ -3,7 +3,7 @@ layout: post
 title:  Don’t Let 9% of Students Speak For You
 categories: leadership, marketing
 type: "Leadership"
-caption: ""
+caption: "A three-week integrated marketing campaignthat doubled voter turnout in the Winter 2016 ASUCD Elections."
 intro: ""
 team: ["Lillian Liu", "Jaqueline Su", "Nathalie Schrans", "Christy Robertson"]
 year: 2016

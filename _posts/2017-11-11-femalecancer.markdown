@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  Female Cancer Rates
-categories: information
+categories: Information
 type: "Gallery"
 caption: ""
 intro: ""
@@ -10,6 +10,7 @@ course: "Information Design"
 institution: "University of California, Davis"
 year: 2016
 thumbnail: thumbnails/thumb-femalecancer.jpg
+tools: ["Adobe Illustrator"]
 
 ---
 

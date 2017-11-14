@@ -4,27 +4,23 @@ layout: default
 
 <div class="home">
 
-  <!--  <h1 class="page-heading">Case Studies</h1>
-
   {{ content }}
 
-  <ul class="post-list">
-    {% for post in site.posts %}
-      <li>
-        {% if post.thumbnail %}
-          <img src=" {{ post.thumbnail }} " />
-        {% endif %}
-        <h2>
-          <a class="post-link" href="{{ post.url | relative_url }}">{{ post.title | escape }}</a>
-        </h2>
-      </li>
-    {% endfor %}
-  </ul>
+<div class="header-extended">
+<h1>I'm a fourth year at UC Davis studying Design with a Computer Science minor.
+  <br /><br />
+I'm passionate about meaningful, process informed interaction design, information design, and UI/UX.
+<br />
+I like working with people.
+<br />
+I like to code.
+<br />
+</h1>
+<p>I'm in the process of switching over from my old portfolio site.
+  You can still visit <a href="http://sopmaq.com">sopmaq.com</a>, but this site has my most recent work!</p>
 </div>
--->
 
-
-  <!--
+<!--
 .galler-container
     .gallery
       .post
@@ -37,35 +33,45 @@ layout: default
         {% if post.type == "Case Study" %}
       <div class="gallery-case-item">
         <a href="{{ post.url | relative_url }}"><img class="gallery-thumbnail" src=" {{ post.thumbnail }} " /></a>
-        <a class="post-link" href="{{ post.url | relative_url }}">{{ post.title | escape }}</a>
+        <div class="card-caption">
+          <a class="post-link" href="{{ post.url | relative_url }}">{{ post.title | escape }}</a>
+          <p>{{ post.caption }}</p>
+        </div>
       </div>
         {% endif %}
       {% endfor %}
     </div>
 
-    <h2>Leadership and People</h2>
+    <h2>Leadership and Marketing</h2>
     <div class="gallery">
       {% for post in site.posts %}
         {% if post.type == "Leadership" %}
       <div class="gallery-leadership-item">
         <a href="{{ post.url | relative_url }}"><img class="gallery-thumbnail" src=" {{ post.thumbnail }} " /></a>
-        <a class="post-link" href="{{ post.url | relative_url }}">{{ post.title | escape }}</a>
+        <div class="card-caption">
+          <a class="post-link" href="{{ post.url | relative_url }}">{{ post.title | escape }}</a>
+          <p>{{ post.caption }}</p>
+        </div>
       </div>
         {% endif %}
       {% endfor %}
     </div>
 
-    <h2>Gallery</h2>
+    <h2>Other Design Work</h2>
     <div class="gallery">
       {% for post in site.posts %} {% if post.type == "Gallery" %}
       <div class="gallery-item">
         <a href="{{ post.url | relative_url }}"><img class="gallery-thumbnail" src=" {{ post.thumbnail }} " /></a>
-        <a class="post-link" href="{{ post.url | relative_url }}">{{ post.title | escape }}</a>
+        <div class="card-caption">
+          <a class="post-link" href="{{ post.url | relative_url }}">{{ post.title | escape }}</a>
+          <ul class="categories">
+            {% for category in post.categories %}
+              <li>{{ category }}</li>
+            {% endfor %}
+          </ul>
+        </div>
       </div>
       {% endif %} {% endfor %}
-      <!--<h2>
-          <a class="post-link" href="{{ post.url | relative_url }}">{{ post.title | escape }}</a>
-        </h2>-->
     </div>
 
   </div>

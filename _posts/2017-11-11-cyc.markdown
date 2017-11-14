@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  Consult Your Community Website
+title:  Consult Your Community
 categories: interaction
 type: "Case Study"
 caption: ""
@@ -8,6 +8,8 @@ intro: ""
 team: []
 year: 2017
 thumbnail: /thumbnails/thumb-cyc.png
+tools: ["Figma", "Adobe Illustrator", "Adobe Photoshop", "Adobe InDesign"]
+languages: ["HTML", "CSS", "Bootstrap Framework"]
 ---
 
 Prototyping: Figma

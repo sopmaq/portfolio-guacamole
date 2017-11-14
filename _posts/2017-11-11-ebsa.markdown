@@ -1,14 +1,14 @@
 ---
 layout: post
 title:  Economics & Business Student Association
-categories: graphic
+categories: Branding
 type: "Gallery"
-caption: ""
+caption: "A branding effort to create a consistent visual identity for the largest business organization at UC Davis."
 intro: ""
 team: []
 year: 2016
 thumbnail: thumbnails/thumb-ebsa.jpg
-
+tools: ["Adobe Illustrator", "Adobe Photoshop", "Adobe InDesign"]
 ---
 ![Icon Pattern version 3](/images/ebsa/pattern_3b.jpg)
 

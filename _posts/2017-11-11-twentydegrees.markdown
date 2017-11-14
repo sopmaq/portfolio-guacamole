@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  Twenty Degrees
-categories: packaging, research
+categories: Branding
 type: "Gallery"
 caption: ""
 intro: ""
@@ -10,7 +10,7 @@ course: "Brand Communication"
 institution: "Massey University, New Zealand"
 year: 2017
 thumbnail: thumbnails/thumb-twenty.jpg
-
+tools: ["Adobe Illustrator"]
 ---
 
 ![Header image of AR mockup on iphone next to Twenty Degrees logo](/images/twentydeg/header.jpg)
