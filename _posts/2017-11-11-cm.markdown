@@ -10,3 +10,37 @@ year: 2016
 thumbnail: thumbnails/thumb-cm.jpg
 
 ---
+
+## Background
+
+Creative Media is an almost entirely student-run full-service digital creative agency that operates under the Associated Students of the University of California (ASUCD). The organization is composed of three teams: Marketing, Graphics, and Programming. Creative Media works with both campus and corporate clients on a variety of marketing and web/mobile projects.
+
+## Problems
+- Clients submit project requests to different staff members; no way of keeping track of projects
+- Slow turnaround time
+- Miscommunication or no communication between departments
+
+## Workflow Redesign
+
+In an interdepartmental collaboration, we developed the following workflow and procedure, which denotes the Marketing Department as the first point of contact with the client.
+
+## Internal Changes
+
+### Project Protocol and Production Times
+We established protocol and production times for each of our main projects.
+
+### Google Accounts
+Created Google accounts for all employees with the purpose of archiving all documents and communication within Creative Media.
+
+### Client Documents
+To make the Creative Media process easier for clients to understand, we created a set of informational client documents to use during initial client meetings.
+
+## Conclusion
+
+Our current workflow has proved successful over the past six months at improving interdepartmental communication and client relations.
+
+In November 2016, I was awarded the Mark & Linda Champagne Award for Exemplary Customer Service after being nominated by two regular campus clients for their satisfaction with the current workflow.
+
+During Winter 2016, my role as Marketing Director shifted to responsibilities of a Project Manager, and I started coordinating projects and timelines under Marketing, Graphics, and Programming.
+
+In Spring 2017, the Marketing Team and I outlined this workflow in a Creative Media Marketing Handbook as hired and trained new staff as we exited.

@@ -13,4 +13,6 @@ thumbnail: thumbnails/thumb-femalecancer.jpg
 
 ---
 
-![x](/images/femalecancer/femalecancer2.jpg)
+![Female Cancer poster mockup](/images/femalecancer/femalecancer2.jpg)
+
+I designed an informative poster to communicate trends in female cancer rates. I incorporated information design principles including *direct labeling*, using a *muted color scheme* for consistency and legibility, and ensuring *credibility* by adding the data source.

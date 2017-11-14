@@ -17,3 +17,6 @@ thumbnail: /images/fineline/thumb-fineline.gif
 ![Interface demo](/images/fineline/fineline-demo.gif)
 
 ![Screen during interaction](/images/fineline/fineline1.jpg)
+
+I designed and developed a one-page interactive website that provides interesting facts about my personal pen collection.
+When the user clicks on a pen, an ink sample and personal fact about that pen pops up.

@@ -1,0 +1,17 @@
+---
+layout: post
+title:  Education Specialists Flyer
+categories: information
+type: "Gallery"
+caption: ""
+intro: ""
+team: []
+course: "Information Design"
+institution: "University of California, Davis"
+year: 2016
+thumbnail: thumbnails/thumb-iusd.jpg
+
+---
+![Education specialist flyer](/images/flyer/iusd-flyer.jpg)
+
+I designed a letter size flyer for an event series for education specialists.

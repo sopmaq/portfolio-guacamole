@@ -10,36 +10,65 @@ year: 2016
 thumbnail: thumbnails/thumb-ebsa.jpg
 
 ---
-Background
+## Background
 
-The Economics & Business Student Association (EBSA) is one of the largest undergraduate professional business organizations at UC Davis that provides members with experience in different business area by hosting workshops, guest speakers, and quarterly competitions. As the organization’s Design Chair, I am responsible for designing all digital and print communications.
+The Economics & Business Student Association (EBSA) is one of the largest undergraduate professional business organizations at UC Davis that provides members with experience in different business area by hosting workshops, guest speakers, and quarterly competitions. As the organization’s Design Chair, I was responsible for designing all digital and print communications.
 
-Problem
+## Problem
 Because the EBSA brand has never been contained within an established visual identity, I decided to embark on a full-scale branding project to design and document a consistent visual identity to express the core values of the EBSA brand.
 
-Process
+## Process
 
 I used associative word and brainstorming activities to pull out the qualities of “professionalism”, “community”, and “discovery”
+
+![Associate word games](/images/ebsa/associative-word-games.jpg)
 
 During this stage came a board-wide decision to undergo a logo change to better reflect the new brand's personality.
 
 Wanting to pay homage to the three core values of the organization, I played with different three-shape forms. It was important that the three shapes looked "confident" and reflected the organization's foundations, which led me to develop the new current logo.
 
-Branding Guidelines
+![EBSA logo iterations](/images/ebsa/EBSA_logo_iterations.png)
 
-Logo
+## Branding Guidelines
+
+### Logo
 The three block figure in EBSA logo stands for the foundation of the three pillars of EBSA: professionalism, community, and discovery.
 
-Color Palette
+![Main and alternate logo](/images/ebsa/logos.svg)
+
+### Color Palette
 EBSA's main color is historically navy blue. I chose to create a brighter color palette to stand out from other business organizations, many of which use darker colors.
 
-Typography
+![Main and alternate logo](/images/ebsa/color-palette.gif)
 
-Icon System
+### Typography
+![Type choices](/images/ebsa/type.svg)
+
+### Icon System
 Each quarter, EBSA has a theme: a different field of business. I developed a system of icons for each quarter with the purpose of educating both prospective and current members about that quarter’s business theme.
 
-Branding Applications
+![Icon system](/images/ebsa/icons-2.jpg)
 
-Conclusion
+## Branding Applications
+
+![Stickers](/images/ebsa/stickers.jpg)
+
+![Vinyl banner](/images/ebsa/vinyl.jpg)
+
+![Vinyl banner](/images/ebsa/infosession-2.jpg)
+
+![Icon Pattern version 1](/images/ebsa/pattern_1b.jpg)
+
+![Icon Pattern version 2](/images/ebsa/pattern_2b.jpg)
+
+![Icon Pattern version 3](/images/ebsa/pattern_3b.jpg)
+
+
+
+
+
+
+
+## Conclusion
 
 One of our Marketing Director's goal was to increase member applicants, and the board and members praised the rebrand for contributing to a 43% rise to a record high of 196 in the number of Fall Quarter applicants.
