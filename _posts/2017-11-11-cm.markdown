@@ -15,6 +15,8 @@ thumbnail: thumbnails/thumb-cm.jpg
 
 Creative Media is an almost entirely student-run full-service digital creative agency that operates under the Associated Students of the University of California (ASUCD). The organization is composed of three teams: Marketing, Graphics, and Programming. Creative Media works with both campus and corporate clients on a variety of marketing and web/mobile projects.
 
+![CM's structure](/images/cm/cm-structure.svg)
+
 ## Problems
 - Clients submit project requests to different staff members; no way of keeping track of projects
 - Slow turnaround time
@@ -23,6 +25,11 @@ Creative Media is an almost entirely student-run full-service digital creative a
 ## Workflow Redesign
 
 In an interdepartmental collaboration, we developed the following workflow and procedure, which denotes the Marketing Department as the first point of contact with the client.
+
+![CM's new workflow](/images/cm/cm-workflow-v5-01.svg)
+
+![CM's new workflow - key to graph](/images/cm/cm-workflow-key-3-01.svg)
+
 
 ## Internal Changes
 
@@ -34,6 +41,10 @@ Created Google accounts for all employees with the purpose of archiving all docu
 
 ### Client Documents
 To make the Creative Media process easier for clients to understand, we created a set of informational client documents to use during initial client meetings.
+
+![Client Brief](/images/cm/CM_Workflow_SQ16_Update-12.png)
+
+![Proj turnaround times](/images/cm/CM_Workflow_SQ16_Update-13.png)
 
 ## Conclusion
 

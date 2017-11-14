@@ -88,11 +88,37 @@
   flex-basis: 200px; /* 3 columns */
 }
 
-h1, h2, h3, h4, h5, h6, .site-title {
-  font-family: 'Space Mono';
+
+
+/*
+ *
+ * Typography
+ *
+ */
+
+ .post-link {
+   font-family: 'Roboto';
+   font-size: 1em;
+ }
+
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6
+{
+    font-family: 'Inconsolata', serif;
 }
 
-.post-link {
-  font-size: 1em;
-  font-family: 'Space Mono';
+p {
+    font-family: 'Proxima Nova', sans-serif;
+    color: #444;
+}
+
+body {
+    background-color: snow;
+    line-height: 1.5;
+    overflow-x: hidden;
 }
