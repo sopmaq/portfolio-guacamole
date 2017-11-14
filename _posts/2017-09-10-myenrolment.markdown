@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  myEnrolment Redesign
+title:  myEnrollment Redesign
 categories: interaction
 type: "Case Study"
 caption: "Prototyping and wireframing a better way for design students to register for classes."
