@@ -11,10 +11,10 @@ institution: "University of California, Davis"
 year: 2016
 thumbnail: thumbnails/thumb-bikes.jpg
 ---
+![Sticky note prototype](/images/bikes/prototype_header.jpg)
 
 ## Background
-
-The University of California, Davis is located in the small town of Davis, CA, known as the "Bicycle Capital of America". Biking is a central aspect of student life, and over 15,000 – 20,000 bicycles are used by students on the UC Davis campus every day of the week [(Source)] (http://taps.ucdavis.edu/sites/taps.ucdavis.edu/files/attachments/BikePlanUCDCampus2011.pdf).
+The University of California, Davis is located in the small town of Davis, CA, known as the "Bicycle Capital of America". Biking is a central aspect of student life, and over 15,000 – 20,000 bicycles are used by students on the UC Davis campus every day of the week [(Source)](http://taps.ucdavis.edu/sites/taps.ucdavis.edu/files/attachments/BikePlanUCDCampus2011.pdf).
 
 ## Problem
 Reimagine bike parking on the UC Davis campus.
@@ -22,15 +22,14 @@ Reimagine bike parking on the UC Davis campus.
 ## Process
 The human-centered design process is a creative approach to problem-solving that focuses on empathy for individuals to create solutions based on their needs.
 
-# Part 1: Understanding
+## Part 1: Understanding
 
-## User Research
+### User Research
 I interviewed seven UC Davis students to learn about their experiences with on campus biking. These conversations served to help me understand the context of the problem:
 
 - What choices and actions do students make?
 - What are their pain points?
 - What are the cultural norms and expectations of bike parking on campus?
-
 
 Several insights kept popping up during these interviews. Parking spots are difficult to find during peak class times, students must leave for class early to find a parking spot, and using a rack with a bike already locked to it is bike parking taboo.
 
@@ -38,12 +37,14 @@ However, one interviewee stood out to me: Soham, a coworker who bikes everywhere
 
 > At the end of the interview, I asked Soham where he was currently parked. He simply responded, “That’s a good question.”
 
-## Unpacking
+### Unpacking
 I used an empathy map, an exercise that forced me to take what I saw and what I heard during my interviews, and discover the meaning behind them.
 
 I filled up the “Say” and “Do” sections with sticky notes with instances from my interviews, then translated these into what this might mean the interviewee thought and felt in the “Think” and “Feel” sections.
 
-## Framing the Problem
+![Empathy map](/images/bikes/empathy_map_3.jpg)
+
+### Framing the Problem
 From my empathy map, I pulled out the feelings, overwhelmed, embarrassed, disorganized and rushed. With these feelings in mind, I drafted a metaphor to help others and myself better understand Soham. I aimed to convey the emotions of being completely overwhelmed in a densely-packed area, looking for one specific thing amongst many others that look the same.
 
 > When Soham can’t remember where he parked his bike, he feels like he is walking through an IKEA warehouse searching for an item without knowing the aisle and bin number.
@@ -52,17 +53,19 @@ I then brainstormed what the opposite of this metaphor would be, leading me to t
 
 > It would be game-changing to create something that makes searching for his bike feel like spotting a water tower in the distance.
 
-# Part 2: Ideation
+## Part 2: Ideation
 
-## "How Might We" statement
+### "How Might We" statement
 The unpacking and framing exercises translated directly into a “How Might We” statement, tool to create a more specific and tangible problem to ideate solutions for, and serves as a starting point for brainstorming creative ideas.
 
 > How might we make Soham feel like searching for his bike is as easy as spotting a water tower from the distance?
 
-## Brainstorming
+### Brainstorming
 Several classmates and I responded to this “How Might We” statement in a rapid and collaborative brainstorming session, which resulted in a plethora of possible solutions to further develop.
 
-## Prototyping
+![Brainstorm](/images/bikes/brainstorm.jpg)
+
+### Prototyping
 I chose one idea to focus on: color-coded bike parking.
 
 Because innovation is often interdisciplinary, I decided to connect this challenge with something I learned in a psychology class.
@@ -71,53 +74,49 @@ Chunking is a memory technique people use to turn large piece of information int
 
 To connect color-coding and chunking to help Soham find his bike more easily, I created several drafts of a prototype that chunks sections of bike racks into smaller colored sections.
 
-# Part 3: Implementation
-## Testing and Feedback
+![Concept sketch # 1](/images/bikes/sketch_1_long.jpg)
+
+![Concept sketch # 2](/images/bikes/sketch_2_long.jpg)
+
+## Part 3: Implementation
+### Testing and Feedback
 I created a low-fidelity prototype by chunking several sections of bike racks with colored post-it notes.
+
+![Prototype with sticky notes](/images/bikes/prototype_main.jpg)
+
+![Prototype with sticky notes](/images/bikes/prototype_1.jpg)
+
+![Prototype with sticky notes](/images/bikes/prototype_2_long.jpg)
 
 I was wary of telling the users that the purpose of the colored perimeter was to help them remember where they parked, as this had the potential to create bias in feedback. Instead, I created experience surveys that I left on the users bikes after they left. The surveys asked the users to describe their experience and to tell me where they parked, with instructions to email me the results.
 
-# Positives
+![Experiment sign](/images/bikes/experiment.jpg)
+
+![Prototype survey](/images/bikes/experience_survey_lon.jpg)
+
+![Prototype surveys](/images/bikes/experience_survey_2_long.jpg)
+
+
+#### Positives
 - Some users recognized the colors as a memory aid, described prototype as “helpful”
 - Not obtrusive, users parked their bikes without hesitation
 
-# Negatives
+#### Negatives
 - Some users did not make the connection between parking spot and color
 - Little impact in small parking areas
 
-# Changes
+#### Changes
 - Only color code in high density parking areas
 
-# New Ideas
+#### New Ideas
 - Sign or campaign to inform users
 - Color code physical bike rack
 
-# Conclusion
+## Conclusion
+![Prototype with sticky notes](/images/bikes/prototype_1.jpg)
+
 Though this prototype is just a beginning step to reimagining bike parking at UC Davis, the human-centered design process and empathy exercises allowed me to foster rich cultural insight into the individual experiences of UC Davis students.
 
 UC Davis students have a lot going on. Almost all of the people I talked to were in a rush when getting their bikes, and their some didn’t consciously connect the prototype with bike parking.
 
 This is important to consider when further developing other prototypes, and led me to predict that successful solutions to bike parking on the UC Davis campus need to be small, unnoticed changes that still make a big impact.
-
-![x](/images/bikes/prototype_header.jpg)
-
-
-![x](/images/bikes/empathy_map_3.jpg)
-
-![x](/images/bikes/brainstorm.jpg)
-
-![x](/images/bikes/experiment.jpg)
-
-![x](/images/bikes/experience_survey_lon.jpg)
-
-![x](/images/bikes/experience_survey_2_long.jpg)
-
-![x](/images/bikes/prototype_main.jpg)
-
-![x](/images/bikes/prototype_1.jpg)
-
-![x](/images/bikes/prototype_2_long.jpg)
-
-![x](/images/bikes/sketch_1_long.jpg)
-
-![x](/images/bikes/sketch_2_long.jpg)

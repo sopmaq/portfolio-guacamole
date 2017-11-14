@@ -15,7 +15,7 @@ Visual Design: Adobe Illustrator, Photoshop, InDesign
 Development: HTML/CSS, Bootstrap Framework
 
 
-![image test](/images/cyc/web-1b.png)
+![Final website](/images/cyc/web-1b.png)
 
 ## Background
 Consult Your Community (CYC) is a student organization that provides pro-bono consulting services for local businesses. The CYC Chapter at UC Davis (CYC Davis) asked me to help them stand out among other business organizations during busy Fall Recruitment.
@@ -38,38 +38,36 @@ After this meeting, I noted that CYC Davis stands out from other organizations b
 
 I also needed to balance out these unique CYC Davis qualities with the CYC National brand. I retained strong use of the deep navy color of the CYC National brand materials, and I chose a serif typeface with qualities similar to the CYC wordmark.
 
-![image test](/images/cyc/brand-board.jpg)
+![Brand board to showcase colors, type, and imagery style](/images/cyc/brand-board.jpg)
 
 
 ## Flyers
 Starting with the "Finding joy in helping others" concept, I designed the following flyer to be passed out at Fall Recruitment events with attention to the CYC Davis brand qualities.
-![image test](/images/cyc/flyers.jpg)
+![Print flyers](/images/cyc/flyers.jpg)
 
 ## Web Design Process
 The CYC Davis website needs to cater to two audiences: prospective students, who want to join the CYC Davis team as consultants, and local Davis and Sacramento businesses, who are interested in CYC Davis' free consulting services.
 
 The CYC Davis team gave me a document with all of the information they wanted to retain from their old website. I started thinking of ways to organize this information by sketching organization systems visually.
-![image test](/images/cyc/sketches.jpg)
+![Visual sketches](/images/cyc/sketches.jpg)
 
 An issue I found with their previous website was that each piece of content had its own page, making an overwhelming number of pages to read. I aimed to make navigation easier for prospective students and clients by condensing information into fewer pages, and incorporating a secondary navigation system helping users navigate through the information on each page (see desktop screenshots).
-![image test](/images/cyc/site-map2.png)
+![CYC site map](/images/cyc/site-map2.png)
 
 After developing a method of organizing the information on the website, I created mockups in responsive views for each page to present to the CYC Davis team for feedback.
 
 <div class="wrapper" markdown="1" style="display: flex; justify-content: center;">
-![image test](/images/cyc/cyc-figma.gif)
+![Mockups in Figma](/images/cyc/cyc-figma.gif)
 </div>
 
-After a round of feedback, I developed the site using HTML/CSS and the Bootstrap framework.
+After a round of feedback, I developed the site using HTML/CSS and the Bootstrap framework. Visit the live website at [cycdavis.com](http://www.cycdavis.com/).
 
-Visit the site at [cycdavis.com](http://www.cycdavis.com/)
+![Screenshot mockup](/images/cyc/web-6.jpg)
 
-![image test](/images/cyc/web-6.jpg)
+![Website demo](/images/cyc/cyc-demo.gif)
 
-![image test](/images/cyc/cyc-demo.gif)
+![Screenshot mockup](/images/cyc/web-3.jpg)
 
-![image test](/images/cyc/web-3.jpg)
+![Screenshot mockup](/images/cyc/web-4.jpg)
 
-![image test](/images/cyc/web-4.jpg)
-
-![image test](/images/cyc/web-3a.jpg)
+![Screenshot mockup](/images/cyc/web-3a.jpg)
