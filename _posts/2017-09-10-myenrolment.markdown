@@ -14,7 +14,7 @@ tools: ["Figma", "Adobe Illustrator", "Invision"]
 ---
 ![Final prototype solution](/images/myenrolment/mac2.jpg)
 
-### How can we redesign myEnrolment to better guide incoming CoCa Massey students through the unfamiliar process of choosing courses for the upcoming year?
+### How can we better guide incoming CoCa Massey students through the unfamiliar process of choosing courses for the upcoming year?
 
 ## Background
 myEnrolment is an online class registering system for Massey University that students must complete every year to register for courses for the following year.
@@ -106,7 +106,7 @@ User testing helped us decide where this task should fit in the process, since w
 ![Major preview option](/images/myenrolment/majors.png)
 
 
-### Course information
+### Course Information
 A major problem with the existing myEnrolment process is that it requires users to search for courses on an external website. To make this process more straightforward, we wanted to include course information within myEnrolment.
 
 We quickly found that course descriptions weren't enough information for users to make informed decisions, so we incorporated pop-ups and accordian folds instead. We also included an example image of the work that past students created in these courses, as our audience would be taking primarily design studio courses.
@@ -130,6 +130,6 @@ Because of time constraints, we used a Bootstrap UI Kit when designing the final
 ![Final prototype](/images/myenrolment/mac.jpg)
 
 ## Reflection
-My biggest takeaway from this project is learning how important it is to understand the system that an interface exists in. A student's experience doesn't start with logging into myEnrolment and end with pressing the "Submit" button.
+My biggest takeaway from this project is how important it is to understand the system that an interface exists in; a student's experience doesn't start with logging into myEnrolment and end with pressing the "Submit" button.
 
 If Keriana and I continued to work on this project, I'd like to involve people at the CoCa Massey registrar to learn more about the registration process and find out exactly what happens before and after a student completes myEnrolment - how students get from an acceptance letter to myEnrolment, how prerequisites work, how Core Courses affect major choice - so that our interface could be more informed by the system it lives in.

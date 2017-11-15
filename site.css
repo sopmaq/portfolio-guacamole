@@ -30,17 +30,6 @@
 .gallery-leadership-item, .gallery-item {
   flex-basis: 200px; /* 3 columns */
 }
-.header-extended {
-  color: gray;
-  font-size: 1em;
-  margin-bottom: 2em;
-}
-
-.header-extended p {
-  /*font-family: 'Space Mono', monospace;*/
-  color: lightgray;
-  font-size: 1em;
-}
 
 /* Post header */
 .tools, .languages, .categories {
@@ -68,8 +57,8 @@
 }
 
 .languages li {
-  background-color: #DB0A5B;
-  border: 1px solid #DB0A5B;
+  background-color: #336E7B;
+  border: 1px solid #336E7B;
 }
 
 .categories li {
@@ -127,19 +116,20 @@ padding-left: 2px;
  * DELETE ME LATER
  * Typography
  *
- *
+ */
 
  .post-link {
-   font-family: 'Roboto';
+   font-family: 'Open Sans';
    font-size: 1em;
  }
 
 
 h1,
-h2
+h2,
+h3
 {
-    font-family: 'Proxima Nova', serif;
-    font-weight: 600;
+    font-family: 'Space Mono', serif;
+    font-size: 2em;
     color: #444;
 }
 
@@ -153,12 +143,15 @@ h6,
 }
 
 p {
-    font-family: 'Proxima Nova';
     color: #444;
 }
 
-body {
-    background-color: snow;
-    line-height: 1.5;
-    overflow-x: hidden;
-}*/
+.header-extended {
+  font-family: 'Space Mono', monospace;
+  font-size: 1em;
+  margin-bottom: 2em;
+}
+
+.header-extended h1, .header-extended p {
+  color: #BDC3C7 !important;
+}
