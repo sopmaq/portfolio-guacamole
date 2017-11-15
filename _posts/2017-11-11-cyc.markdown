@@ -3,20 +3,14 @@ layout: post
 title:  Consult Your Community
 categories: interaction
 type: "Case Study"
-caption: ""
-intro: ""
+caption: "Website design and development for a student consulting group."
+intro: "Website design and development for a student consulting group."
 team: []
 year: 2017
 thumbnail: /thumbnails/thumb-cyc.png
 tools: ["Figma", "Adobe Illustrator", "Adobe Photoshop", "Adobe InDesign"]
 languages: ["HTML", "CSS", "Bootstrap Framework"]
 ---
-
-Prototyping: Figma
-Visual Design: Adobe Illustrator, Photoshop, InDesign
-Development: HTML/CSS, Bootstrap Framework
-
-
 ![Final website](/images/cyc/web-1b.png)
 
 ## Background

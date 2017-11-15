@@ -3,8 +3,8 @@ layout: post
 title:  Breathing Visualizer
 categories: interactive
 type: "Case Study"
-caption: ""
-intro: ""
+caption: "Interactive interface that responds to user's respiratory rate."
+intro: "Interactive interface that responds to user's respiratory rate."
 team: []
 course: "Interactive Media II"
 institution: "University of California, Davis"

@@ -3,8 +3,8 @@ layout: post
 title:  Reimagining Bike Parking
 categories: interaction
 type: "Case Study"
-caption: "A human-centered design project to redesign the experience of bike parking on the UC Davis campus."
-intro: ""
+caption: "A human-centered design effort to redesign the experience of college campus bike parking."
+intro: "A human-centered design effort to redesign the experience of college campus bike parking."
 team: []
 course: "Human Centered Design"
 institution: "University of California, Davis"

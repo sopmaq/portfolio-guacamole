@@ -2,8 +2,8 @@
 layout: post
 title:  Creative Media Workflow
 type: "Leadership"
-caption: "Improved interdepartmental communication and client relations by establishing a documented workflow."
-intro: ""
+caption: "Document workflow to improve internal and external communication."
+intro: "Improved interdepartmental communication and client relations by establishing a documented workflow."
 team: []
 year: 2016
 thumbnail: thumbnails/thumb-cm.jpg
@@ -16,6 +16,41 @@ categories: [leadership, marketing]
 Creative Media is an almost entirely student-run full-service digital creative agency that operates under the Associated Students of the University of California (ASUCD). The organization is composed of three teams: Marketing, Graphics, and Programming. Creative Media works with both campus and corporate clients on a variety of marketing and web/mobile projects.
 
 ![CM's structure](/images/cm/cm-structure.svg)
+
+## Team
+<div class="team-info" markdown="1">
+
+  <div class="team-col1-cm" markdown="1">
+  ![Sophie](/images/team/sophie2.png)
+
+#### My role
+  - collaborating with other leads to define problems and propose solutions
+  - creating internal and client documents
+  - creating timeline and tasks.
+  </div>
+
+  <div class="team-col2-cm" markdown="1">
+  <div class="team-cm-item" markdown="1">
+![Christy Robertson](/images/team/christy2.png)
+<h4>Christy Robertson</h4>
+<p>Marketing Co-Director</p>
+  </div>
+
+  <div class="team-cm-item" markdown="1">
+![Jaqueline Su](/images/team/jsu2.png)
+<h4>Jaqueline Su</h4>
+<p>Graphics Lead</p>
+  </div>
+
+  <div class="team-cm-item" markdown="1">
+![Madeleine Salem](/images/team/charlie2.png)
+<h4>Charlie Le</h4>
+<p>Lead Programmer</p>
+  </div>
+
+
+  </div>
+</div>
 
 ## Problems
 - Clients submit project requests to different staff members; no way of keeping track of projects

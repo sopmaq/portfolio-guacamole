@@ -3,8 +3,8 @@ layout: post
 title:  Don’t Let 9% of Students Speak For You
 categories: leadership, marketing
 type: "Leadership"
-caption: "A three-week integrated marketing campaignthat doubled voter turnout in the Winter 2016 ASUCD Elections."
-intro: ""
+caption: "Integrated marketing campaign that doubled voter turnout."
+intro: "A three-week integrated marketing campaign that doubled voter turnout in the Winter 2016 ASUCD Elections."
 team: ["Lillian Liu", "Jaqueline Su", "Nathalie Schrans", "Christy Robertson"]
 year: 2016
 thumbnail: thumbnails/thumb-elections.jpg
@@ -16,6 +16,47 @@ Creative Media is an almost entirely student-run full-service digital creative a
 
 ## Problem
 Only 9% of all undergraduate students voted in the previous election. Although traditional marketing tactics (flyers and posters) were employed, they proved to be ineffective at pushing students to vote.
+
+## Team
+<div class="team-info" markdown="1">
+
+  <div class="team-col1-cm" markdown="1">
+  ![Sophie](/images/team/sophie2.png)
+
+#### My role
+  - lead brainstorming session
+  - created marketing timeline
+  - delegating tasks
+  - presented goals and marketing plan to client and ASUCD Senate
+  - implemented efforts in person and online
+  </div>
+
+  <div class="team-col2-cm" markdown="1">
+  <div class="team-cm-item" markdown="1">
+![Christy Robertson](/images/team/christy2.png)
+<h4>Christy Robertson</h4>
+<p>Marketing Co-Director</p>
+  </div>
+
+  <div class="team-cm-item" markdown="1">
+![Lillian Liu](/images/team/lil2.png)
+<h4>Lillian Liu</h4>
+<p>Graphics Lead</p>
+  </div>
+
+  <div class="team-cm-item" markdown="1">
+![Madeleine Salem](/images/team/mad2.png)
+<h4>Madeleine Salem</h4>
+<p>Graphic Designer</p>
+  </div>
+
+  <div class="team-cm-item" markdown="1">
+![Nathalie Schrans](/images/team/nat2.png)
+<h4>Nathalie Schrans</h4>
+<p>Social Media Manager</p>
+  </div>
+  </div>
+</div>
 
 ## Process
 We began brainstorming and planning about three weeks before launching the campaign. We presented the following ideas and campaign plan to both the Elections Committee Chair and to ASUCD Senate.

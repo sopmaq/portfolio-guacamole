@@ -4,7 +4,7 @@ title:  Spelling Aid
 categories: Interaction
 type: "Gallery"
 caption: ""
-intro: ""
+intro: "Interactive spelling game aimed at children learning the alphabet."
 team: ["Keriana Salisbury"]
 course: "Interaction and Interface"
 institution: "Massey University, New Zealand"
@@ -16,7 +16,32 @@ languages: ["Arduino Uno"]
 ![](/images/spelling/spelling-demo.gif)
 
 ## How can we create an haptic interface that facilitates learning?
-Keriana and I designed and built a prototype for Spelling Aid, an interactive spelling game aimed at children learning the alphabet.
+
+## Team
+
+<div class="team-info" markdown="1">
+  <div class="team-col1">
+    <div class="team-name">
+      <img src="/images/team/sophie2.png" alt="sophie">
+      <h4>My role</h4>
+    </div>
+    <ul>
+      <li>Research</li>
+      <li>Arduino and coding</li>
+    </ul>
+  </div>
+
+  <div class="team-col2">
+    <div class="team-name">
+      <img src="/images/team/keri4.png" alt="Keriana">
+      <h4>Keriana Salisbury</h4>
+    </div>
+    <ul>
+      <li>Research</li>
+      <li>3D mockup rendering</li>
+    </ul>
+  </div>
+</div>
 
 ## Audience
 We focused on children learning to spell, specifically children ages 3 - 5. Our interface focuses on helping young children understand the connection between sounds and letters.

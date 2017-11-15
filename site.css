@@ -27,7 +27,6 @@
 
 }
 
-
 .gallery-leadership-item, .gallery-item {
   flex-basis: 200px; /* 3 columns */
 }
@@ -44,10 +43,14 @@
 }
 
 /* Post header */
-.team, .tools, .languages, .categories {
+.tools, .languages, .categories {
   list-style-type: none;
   margin: 0;
   padding: 0;
+}
+
+.languages {
+  margin-top: 10px;
 }
 
 .team li, .tools li, .languages li, .categories li {
@@ -79,6 +82,47 @@ font-size: 1em;
 padding-top: 10px;
 padding-left: 2px;
 }
+
+.site-footer {
+  background-color: gray;
+}
+
+.team-col1 img, .team-col2 img {
+  width: 75px;
+  height: 75px;
+}
+
+.team-info {
+  display: flex;
+  margin-bottom: 15px;
+}
+
+.team-col1, .team-col2 {
+  flex: 1;
+  display: flex;
+  -webkit-flex-direction: column;
+  flex-direction: column;
+  justify-content: center;
+  margin-right: 50px;
+}
+
+.team-col1 ul, .team-col2 ul {
+  padding: 0;
+  margin: 0;
+}
+
+.team-col2-cm {
+  display: flex;
+  flex-wrap: wrap;
+  margin-left: 50px;
+}
+
+.team-cm-item {
+  display: flex;
+  flex-direction: column;
+  padding: 10px;
+}
+
 /*
  * DELETE ME LATER
  * Typography

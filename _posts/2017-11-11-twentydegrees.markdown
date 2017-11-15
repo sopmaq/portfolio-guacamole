@@ -4,7 +4,7 @@ title:  Twenty Degrees
 categories: Branding
 type: "Gallery"
 caption: ""
-intro: ""
+intro: "Developing a novelty chocolate bar brand identity, packaging, and augmented reality point of sale."
 team: ["Naomi Pepah"]
 course: "Brand Communication"
 institution: "Massey University, New Zealand"
@@ -17,6 +17,31 @@ tools: ["Adobe Illustrator"]
 
 ## Problem
 Nestl&#233; New Zealand has been losing market share to Cadbury's Moro Bar. Naomi and I were tasked to research and position a new novelty chocolate bar brand as a compelling alternative to Moro to obtain Nestl&#233; market leadership.  
+
+## Team
+<div class="team-info" markdown="1">
+  <div class="team-col1">
+    <div class="team-name">
+      <img src="/images/team/sophie.png" alt="sophie">
+      <h4>My role</h4>
+    </div>
+    <ul>
+      <li>Research</li>
+      <li>Design of brand identity, packaging, and point of sale</li>
+    </ul>
+  </div>
+
+  <div class="team-col2">
+    <div class="team-name">
+      <img src="/images/team/naomi.png" alt="sophie">
+      <h4>Naomi Pepah</h4>
+    </div>
+    <ul>
+      <li>Research</li>
+      <li>Copywriting and communication</li>
+    </ul>
+  </div>
+</div>
 
 ## Brand History
 

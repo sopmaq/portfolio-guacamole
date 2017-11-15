@@ -3,8 +3,8 @@ layout: post
 title:  myEnrolment Redesign
 categories: interaction
 type: "Case Study"
-caption: "Prototyping and wireframing a better way for design students to register for classes."
-intro: "This is a redesign of MyEnrolment at Massey University."
+caption: "Prototyping and testing a better way for design students to register for classes."
+intro: "Prototyping and testing a better way for design students to register for classes."
 team: ["Keriana Salisbury"]
 course: "Interaction and Interface"
 institution: "Massey University, New Zealand"
@@ -22,9 +22,14 @@ myEnrolment is an online class registering system for Massey University that stu
 ## Problem
 I found myself in tears just a few weeks before I embarked on my exchange to New Zealand - I spent a few hours trying to figure out how to register for my classes and I *still* couldn't figure myEnrolment out!
 
-I met Keriana, a second year at Massey University College of Creative Arts (CoCa Massey), and found that she also had trouble completing myEnrolment each year. Both passionately disappointed about the lack of usability of myEnrolment, we set out to improve it.
+I met Keriana, a second year at Massey University College of Creative Arts (CoCa Massey), and found that she also had trouble completing myEnrolment each year. Both passionately disappointed about the lack of usability of myEnrolment, we set out to improve it. Keriana and I shared the same roles:
 
-In this case study I use New Zealand academic terminology:
+- Creating wireframes
+- Paper prototyping
+- Digital prototyping
+- User testing
+
+In this case study, I use New Zealand academic terminology:
 - enrol = enroll
 - paper/course = course
 - timetable = schedule

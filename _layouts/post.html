@@ -7,7 +7,7 @@ layout: default
     <h1 class="post-title" itemprop="name headline">{{ page.title | escape }}</h1>
     <p class="post-meta">
 
-    {{ page.caption }}
+    {{ page.intro }}
 <!--
   {% if page.team %}
   <ul class="team">
@@ -18,6 +18,7 @@ layout: default
   {% endif %}
 -->
 
+<div class="tools-languages-container">
   {% if page.tools %}
   <ul class="tools">
     {% for tool in page.tools %}
@@ -31,6 +32,7 @@ layout: default
       <li>{{ language }}</li>
     {% endfor %}
   {% endif %}
+</div>
   </p>
   </header>
 

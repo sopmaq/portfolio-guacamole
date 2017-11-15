@@ -3,8 +3,8 @@ layout: post
 title:  Manator Manatee
 categories: information, leadership
 type: "Leadership"
-caption: "Facilitated and created goal-building worksheets for a design mentorship program of 50+ participants."
-intro: ""
+caption: "Design mentorship program and goal-building worksheets."
+intro: "Facilitated and created goal-building worksheets for a design mentorship program of 50+ participants."
 team: []
 year: 2017
 thumbnail: thumbnails/thumb-manatee.jpg
