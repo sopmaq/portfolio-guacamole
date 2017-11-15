@@ -148,7 +148,7 @@ p {
 
 .header-extended h1, .header-extended p {
   color: #BDC3C7 !important;
-  margin-bottom: 50px;
+
 }
 
 .site-title {
@@ -181,4 +181,5 @@ padding: 5px 10px 5px 10px;
   color: orange;
   display: inline-block;
   border-top: 3px solid orange;
+  margin-top: 20px;
 }
