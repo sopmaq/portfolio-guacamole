@@ -56,7 +56,7 @@ After developing a method of organizing the information on the website, I create
 ![Mockups in Figma](/images/cyc/cyc-figma.gif)
 </div>
 
-After a round of feedback, I developed the site using HTML/CSS and the Bootstrap framework. Visit the live website at [cycdavis.com](http://www.cycdavis.com/).
+After a round of feedback, I developed the site using HTML/CSS and the Bootstrap framework. Visit the live website at [cycdavis.com](http://www.cycdavis.com/)!
 
 ![Screenshot mockup](/images/cyc/web-6.jpg)
 

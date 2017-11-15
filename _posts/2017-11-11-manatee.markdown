@@ -3,7 +3,7 @@ layout: post
 title:  Manator Manatee
 categories: information, leadership
 type: "Leadership"
-caption: "Design mentorship program and goal-building worksheets."
+caption: "Facilitated and created goal-building worksheets for a design mentorship program of 50+ participants."
 intro: "Facilitated and created goal-building worksheets for a design mentorship program of 50+ participants."
 team: []
 year: 2017
@@ -28,21 +28,47 @@ I structured the program with a one-time mentorship reveal orientation and weekl
 
 I created goal-building worksheets to help participants determine what steps they needed to take as pairs to make their mentorship experience unique and meaningful.
 
+<div markdown="1" style="display: flex;">
+  <div markdown="1" style="flex:1;">
 ![Worksheet page 1](/images/manatee/worksheet-example-1.png)
+</div>
+  <div markdown="1" style="flex:1;">
 ![Worksheet page 2](/images/manatee/worksheet-example-2.png)
+</div>
+</div>
+<div markdown="1" style="display: flex;">
+<div markdown="1" style="flex:1;">
 ![Worksheet page 3](/images/manatee/worksheet-example-3.png)
-![Worksheet page 4](/images/manatee/worksheet-example-4.png)
+</div>
 
+<div markdown="1" style="flex:1;">
+![Worksheet page 4](/images/manatee/worksheet-example-4.png)
+</div>
+</div>
 ## Reveal Orientation
 
 We passed out these worksheets to participants at reveal orientation, where most participants had never met their mentor/mentee before. I guided the room of participants through each page with a timer and presentation.
 
+<div markdown="1" style="display: flex;">
+<div markdown="1" style="flex:1;  margin-right: 10px;">
 ![Manator Manatee pairs meeting up](/images/manatee/activity-1.jpg)
+</div>
+<div markdown="1" style="flex:1;">
 ![Manator Manatee pairs meeting up](/images/manatee/activity-2.jpg)
+</div>
+</div>
+
+<div markdown="1" style="display: flex;">
+<div markdown="1" style="flex:1; margin-right: 10px;">
 ![Manator Manatee pairs meeting up](/images/manatee/activity-3.jpg)
+</div>
+<div markdown="1" style="flex:1;">
 ![Manator Manatee pairs meeting up](/images/manatee/activity-4.jpg)
+</div>
+</div>
 
 ![Filled out worksheet](/images/manatee/worksheet-1.jpg)
+
 ![Another filled out worksheet](/images/manatee/worksheet-2.jpg)
 
 ## Conclusion

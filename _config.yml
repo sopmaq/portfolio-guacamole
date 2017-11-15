@@ -16,7 +16,7 @@
 title: Sophie Maquiling
 email: scmaquiling@ucdavis.edu
 description: > # this means to ignore newlines until "baseurl:"
-  Currently in New Zealand! Built this with Jekyll
+  Currently living out of my comfort zone in New Zealand. I built this with Jekyll!
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://sopmaq.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: sopmaq
