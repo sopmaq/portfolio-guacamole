@@ -61,6 +61,9 @@
   border: 1px solid #336E7B;
 }
 
+.categories {
+  margin-top: 5px;
+}
 .categories li {
   background-color: lightgray;
   border: 1px solid lightgray;
@@ -69,7 +72,7 @@
 
 
 .site-footer {
-  background-color: gray;
+  background-color: #BDC3C7;
 }
 
 .team-col1 img, .team-col2 img {
@@ -136,14 +139,21 @@ p {
   font-family: 'Space Mono', monospace;
   font-size: 1em;
   margin-bottom: 2em;
+  width: 85%;
+}
+
+.header-extended p {
+  font-size: 14px;
 }
 
 .header-extended h1, .header-extended p {
   color: #BDC3C7 !important;
+  margin-bottom: 50px;
 }
 
 .site-title {
   font-family: 'Space Mono', monospace;
+  color: orange !important;
 }
 
 .post-link {
@@ -161,4 +171,14 @@ p {
 
 .card-caption {
 padding: 5px 10px 5px 10px;
+}
+
+.gallery-item {
+  padding-bottom: 10px;
+}
+
+.gallery-container > h3 {
+  color: orange;
+  display: inline-block;
+  border-top: 3px solid orange;
 }
