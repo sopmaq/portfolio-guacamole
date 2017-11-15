@@ -9,12 +9,8 @@ layout: default
 <div class="header-extended">
 <h1>I'm a fourth year at UC Davis studying Design with a Computer Science minor.
   <br /><br />
-I'm passionate about meaningful, process informed design.
-<br />
-I like working with people.
-<br />
-I like to code.
-<br />
+I'm passionate about meaningful, process informed design, I like to code, and I love working with people.
+
 </h1>
 <p>I'm in the process of switching over from my old portfolio site.
   You can still visit <a href="http://sopmaq.com">sopmaq.com</a>, but this site has my most recent work!</p>
@@ -27,7 +23,7 @@ I like to code.
 -->
 
   <div class="gallery-container">
-    <h4>Design Case Studies</h4>
+    <h3>Design Case Studies</h3>
     <div class="gallery">
       {% for post in site.posts %}
         {% if post.type == "Case Study" %}
@@ -42,7 +38,7 @@ I like to code.
       {% endfor %}
     </div>
 
-    <h2>Leadership and Marketing</h2>
+    <h3>Leadership and Marketing</h3>
     <div class="gallery">
       {% for post in site.posts %}
         {% if post.type == "Leadership" %}
@@ -57,7 +53,7 @@ I like to code.
       {% endfor %}
     </div>
 
-    <h2>Other Design Work</h2>
+    <h3>Other Design Work</h3>
     <div class="gallery">
       {% for post in site.posts %} {% if post.type == "Gallery" %}
       <div class="gallery-item">

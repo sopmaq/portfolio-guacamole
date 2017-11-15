@@ -14,15 +14,15 @@
   flex-wrap: wrap;
   align-items: stretch;
   margin-bottom: 30px;
-  margin-left: -10px;
-  margin-top: -10px;
+  margin-left: -15px;
+  margin-top: -15px;
 }
 
 .gallery-case-item, .gallery-leadership-item, .gallery-item {
   flex: 1;
   flex-basis: 300px; /* 2 columns */
-  margin-left: 10px;
-  margin-top: 10px;
+  margin-left: 15px;
+  margin-top: 15px;
   background-color: #F5F5F5;
 
 }
@@ -66,11 +66,7 @@
   border: 1px solid lightgray;
 }
 
-.post-link {
-font-size: 1em;
-padding-top: 10px;
-padding-left: 2px;
-}
+
 
 .site-footer {
   background-color: gray;
@@ -126,21 +122,11 @@ padding-left: 2px;
 
 h1,
 h2,
-h3
-{
+h3 {
     font-family: 'Space Mono', serif;
-    font-size: 2em;
     color: #444;
 }
 
-h3,
-h4,
-h5,
-h6,
-{
-  font-family: 'Proxima Nova';
-  font-weight: 600;
-}
 
 p {
     color: #444;
@@ -154,4 +140,25 @@ p {
 
 .header-extended h1, .header-extended p {
   color: #BDC3C7 !important;
+}
+
+.site-title {
+  font-family: 'Space Mono', monospace;
+}
+
+.post-link {
+  font-size: 18px;
+  padding-top: 10px;
+  padding-left: 2px;
+  font-weight: 600;
+  font-family: 'Space Mono', monospace;
+}
+
+.gallery p {
+  color: #BDC3C7;
+  font-size: 14px;
+}
+
+.card-caption {
+padding: 5px 10px 5px 10px;
 }
