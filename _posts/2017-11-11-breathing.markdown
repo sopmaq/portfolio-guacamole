@@ -16,7 +16,7 @@ languages: ["HTML", "CSS", "JavaScript"]
 
 ![Final prototype](/images/breathing/demo2.gif)
 
-### How can I design a digital interface that helps people take control of their anxiety?
+### How can I help people take control of their anxiety?
 
 ## Background
 I wanted to create something that helped people experiencing anxiety by making them aware of their physical symptoms, including their heart and respiratory rate.
